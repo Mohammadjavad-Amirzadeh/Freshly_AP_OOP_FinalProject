@@ -1,0 +1,27 @@
+
+
+.Texts{
+    -fx-text-fill: #3f4064;
+    -fx-font-family: "IRANYekanWeb ExtraBold";
+    -fx-font-weight: Bold;
+}
+
+.Delivery{
+    -fx-text-fill: #3f4064;
+    -fx-font-family:"IRANYekanWeb ExtraBold";
+    -fx-font-weight: bold;
+}
+
+.mainPane{
+    -fx-background-color: white;
+}
+.mainPane:hover{
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,1), 5, 0, 0, 0);
+}
+
+.title{
+    -fx-text-fill: #3f4064;
+    -fx-font-family: "IRANYekanWeb Medium";
+    -fx-font-weight: Bold;
+    -fx-font-size: 19px;
+}

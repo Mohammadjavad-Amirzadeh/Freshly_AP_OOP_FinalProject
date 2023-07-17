@@ -1,0 +1,21 @@
+
+
+.texts{
+    -fx-font-family: "IRANYekanWeb Medium";
+    -fx-font-size: 14px;
+}
+
+.texts2{
+    -fx-font-family: "IRANYekanWeb Light";
+    -fx-font-size: 12px;
+}
+
+.okbutton{
+    -fx-background-color: #00a03b;
+    -fx-text-fill: #ffff;
+}
+
+.cancelbutton{
+    -fx-background-color: #ff1818;
+    -fx-text-fill: #ffff;
+}

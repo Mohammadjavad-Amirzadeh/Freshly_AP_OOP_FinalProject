@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d79a84b-1087-45c1-bfc3-9b679c5ea623" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/AddIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Advertisment.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AuctionBanner copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AuctionBanner copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AuctionBanner.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Delivery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DescriptionTextFooter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HeaderIcons/cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HeaderIcons/login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HeaderIcons/logoutButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HeaderIcons/search-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HeaderIcons/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Icon.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Icons2.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Toman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Untitled-1.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/etemadLogoFooter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/footerBackground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/freshlyText.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/logo footer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/logo.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/logoHeader.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/logoSellerPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/neshanLogoFooter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/temp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/temp2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/freshly/FreshlyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/freshly/FreshlyApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/freshly/FreshlyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/freshly/FreshlyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/freshly/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/freshly/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/freshly/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/freshly/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/freshly/ProductLabel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/freshly/ProductLabel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/freshly/SellerPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/freshly/SellerPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/freshly/ShowingProducts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/freshly/ShowingProducts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/freshly/database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/freshly/database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/freshly/Assets/Icons2.psd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/freshly/Assets/Icons2.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/freshly/MainPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/freshly/MainPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/freshly/MainPage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/freshly/MainPage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/freshly/ProductLabel.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/freshly/ProductLabel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/freshly/ProductLabel.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/freshly/ProductLabel.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/freshly/SellerPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/freshly/SellerPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/freshly/SellerPage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/freshly/SellerPage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/freshly/ShowingProducts.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/freshly/ShowingProducts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/freshly/ShowingProducts.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/freshly/ShowingProducts.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/freshly/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/freshly/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/freshly/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/freshly/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/freshly/Assets/Icons2.psd" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/freshly/Assets/Icons2.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/freshly/FreshlyApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/freshly/FreshlyApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/freshly/FreshlyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/freshly/FreshlyController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/freshly/MainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/freshly/MainPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/freshly/MainPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/freshly/MainPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/freshly/MainPage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/freshly/MainPage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/freshly/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/freshly/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/freshly/ProductLabel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/freshly/ProductLabel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/freshly/ProductLabel.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/freshly/ProductLabel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/freshly/ProductLabel.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/freshly/ProductLabel.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/freshly/SellerPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/freshly/SellerPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/freshly/SellerPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/freshly/SellerPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/freshly/SellerPage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/freshly/SellerPage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/freshly/ShowingProducts.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/freshly/ShowingProducts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/freshly/ShowingProducts.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/freshly/ShowingProducts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/freshly/ShowingProducts.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/freshly/ShowingProducts.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/freshly/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/freshly/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/freshly/database.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/freshly/database.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/freshly/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/freshly/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/module-info.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="CSS File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QalDLThCfIA65CfJEUobqNF3WD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Mohammad-Saleh-Govahi&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Saleh/Documents/Freshly/src/main/java/com/example/freshly&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/OneDrive/Desktop/FinalProject/Freshly&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.40114942&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Freshly\src\main\resources" />
+      <recent name="E:\java code\New folder\Freshly\src\main\resources\com\example\freshly\ProductsImages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\OneDrive\Desktop\Freshly\src\main\resources\com\example\freshly" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.freshly" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RunAdminPage">
+    <configuration name="ChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.freshly.ChatServer" />
+      <module name="LearningJavafx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.freshly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreshlyApplication" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.freshly.FreshlyApplication" />
+      <module name="LearningJavafx" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunAdminPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.freshly.RunAdminPage" />
+      <module name="LearningJavafx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.freshly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RunAdminPage" />
+        <item itemvalue="Application.ChatServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d79a84b-1087-45c1-bfc3-9b679c5ea623" name="Changes" comment="" />
+      <created>1685599453173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685599453173</updated>
+      <workItem from="1685599455879" duration="3892000" />
+      <workItem from="1685605245110" duration="6871000" />
+      <workItem from="1685613263824" duration="256000" />
+      <workItem from="1685625635505" duration="7172000" />
+      <workItem from="1685675970580" duration="13142000" />
+      <workItem from="1685707679842" duration="7955000" />
+      <workItem from="1685765060119" duration="2703000" />
+      <workItem from="1685775736163" duration="11104000" />
+      <workItem from="1685790815378" duration="1671000" />
+      <workItem from="1685792799496" duration="1475000" />
+      <workItem from="1685848418306" duration="5038000" />
+      <workItem from="1685894545598" duration="119000" />
+      <workItem from="1685933476251" duration="12923000" />
+      <workItem from="1685962573755" duration="7138000" />
+      <workItem from="1686026523511" duration="9102000" />
+      <workItem from="1686059959223" duration="1446000" />
+      <workItem from="1686129613519" duration="2002000" />
+      <workItem from="1686134954092" duration="9264000" />
+      <workItem from="1686197163632" duration="27123000" />
+      <workItem from="1686385719720" duration="489000" />
+      <workItem from="1686386363301" duration="74000" />
+      <workItem from="1687880297857" duration="6000" />
+      <workItem from="1687880325643" duration="1840000" />
+      <workItem from="1687934144986" duration="4717000" />
+      <workItem from="1687940371360" duration="331000" />
+      <workItem from="1687940751276" duration="43000" />
+      <workItem from="1687940939772" duration="1200000" />
+      <workItem from="1687944918785" duration="5495000" />
+      <workItem from="1687951275665" duration="3623000" />
+      <workItem from="1687968202815" duration="4579000" />
+      <workItem from="1688027784674" duration="1638000" />
+      <workItem from="1688041053772" duration="8073000" />
+      <workItem from="1688111029199" duration="1413000" />
+      <workItem from="1688117436895" duration="680000" />
+      <workItem from="1688137222973" duration="5627000" />
+      <workItem from="1688147401338" duration="1855000" />
+      <workItem from="1688191200010" duration="4932000" />
+      <workItem from="1688201044827" duration="1065000" />
+      <workItem from="1688202336840" duration="18935000" />
+      <workItem from="1688269006477" duration="14024000" />
+      <workItem from="1688283890053" duration="52000" />
+      <workItem from="1688284009016" duration="21196000" />
+      <workItem from="1688356686211" duration="8526000" />
+      <workItem from="1688369073224" duration="575000" />
+      <workItem from="1688370951797" duration="6293000" />
+      <workItem from="1688380847119" duration="15342000" />
+      <workItem from="1688398881959" duration="31000" />
+      <workItem from="1688399252138" duration="566000" />
+      <workItem from="1688448988089" duration="1205000" />
+      <workItem from="1688452883591" duration="4739000" />
+      <workItem from="1688459470751" duration="474000" />
+      <workItem from="1688545187105" duration="601000" />
+      <workItem from="1688653728270" duration="3000" />
+      <workItem from="1688657154791" duration="599000" />
+      <workItem from="1688660946124" duration="23000" />
+      <workItem from="1688660998504" duration="16000" />
+      <workItem from="1688661032719" duration="40000" />
+      <workItem from="1688661884921" duration="1637000" />
+      <workItem from="1688664937164" duration="1960000" />
+      <workItem from="1688713545844" duration="841000" />
+      <workItem from="1688717410616" duration="1189000" />
+      <workItem from="1688719079157" duration="2270000" />
+      <workItem from="1688730951037" duration="4672000" />
+      <workItem from="1688907262779" duration="2246000" />
+      <workItem from="1688909685075" duration="4160000" />
+      <workItem from="1689051310324" duration="1394000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/freshly/ShowingProducts.java</url>
+          <line>423</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

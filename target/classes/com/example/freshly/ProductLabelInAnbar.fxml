@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onMouseClicked="#getData" prefHeight="119.0" prefWidth="574.0" style="-fx-border-color: #e0e0e6; -fx-border-radius: 5px;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.freshly.ProductLabelInAnbar">
+   <children>
+      <Pane layoutX="459.0" layoutY="14.0" prefHeight="92.0" prefWidth="96.0" styleClass="ProductImage" stylesheets="@AuctionLabel.css">
+         <children>
+            <ImageView fx:id="ProductImage" fitHeight="77.0" fitWidth="85.0" layoutX="6.0" layoutY="6.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@Assets/temp2.jpg" />
+               </image>
+            </ImageView>
+         </children>
+      </Pane>
+      <Label layoutX="324.0" layoutY="43.0" text="Product ID :">
+         <font>
+            <Font name="IRANYekanWeb Medium" size="17.0" />
+         </font>
+      </Label>
+      <Label fx:id="ProductID" layoutX="427.0" layoutY="43.0" text="5">
+         <font>
+            <Font name="IRANYekanWeb Medium" size="17.0" />
+         </font>
+      </Label>
+      <Label layoutX="11.0" layoutY="43.0" text="Product Name :">
+         <font>
+            <Font name="IRANYekanWeb Medium" size="17.0" />
+         </font>
+      </Label>
+      <Label fx:id="ProductName" layoutX="140.0" layoutY="43.0" text="Kalbas">
+         <font>
+            <Font name="IRANYekanWeb Medium" size="17.0" />
+         </font>
+      </Label>
+   </children>
+</Pane>
